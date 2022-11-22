@@ -13,5 +13,6 @@ let newString2 = '';
     }
     else{
         console.log('The string length is less than 10!');
+        console.log(1);
     }
     console.log(newString2);
