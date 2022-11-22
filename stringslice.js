@@ -16,3 +16,4 @@ let newString2 = '';
         console.log(1);
     }
     console.log(newString2);
+    console.log("Hello World");
